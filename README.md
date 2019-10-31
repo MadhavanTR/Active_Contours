@@ -11,11 +11,11 @@ Make sure both **find_segments.py** and **your program(find_segments_ex.py)** ar
 ## Sample Image
 **Input Image**
 
-![Input_Image](https://github.gatech.edu/sconnelly7/cv6474_project/tree/madhavan/sample.png)
+![Input_Image](https://github.com/MadhavanTR/Active_Contours/blob/master/sample.png)
 
 **Output with segments**
 
-![Output_Image](https://github.gatech.edu/sconnelly7/cv6474_project/tree/madhavan/output.png)
+![Output_Image](https://github.com/MadhavanTR/Active_Contours/blob/master/output.png)
 
  Time consumed to identify snakes/contours is caculated with
 
