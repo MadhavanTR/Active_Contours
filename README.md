@@ -17,15 +17,13 @@ Make sure both **find_segments.py** and **your program(find_segments_ex.py)** ar
 
 ![Output_Image](https://github.com/MadhavanTR/Active_Contours/blob/master/output.png)
 
- Time consumed to identify snakes/contours is caculated with
+ Time consumed to identify snakes/contours is
 
 ```
 st = time.time()
 output_snakes = find_segments(image_gray, 4, centers, radii)
 print(time.time()-st)
 ```
-
-and the result was
 
 `4.892950057983398`
 
